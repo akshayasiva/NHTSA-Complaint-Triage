@@ -1,11 +1,12 @@
 
+
 # Vehicle Safety Complaint Triage (NHTSA)
 
 An NLP system that reads real vehicle safety complaints filed with the US government (NHTSA), **classifies the failed component**, **flags dangerous complaints** (crash, fire, injury, death), **finds similar past complaints**, and **writes a monthly emerging-issues report** for engineers.
 
 **Research question:** Is a fine-tuned DistilBERT worth its extra cost over a simple TF-IDF + logistic regression model?
 
-[Triage app]<img width="1501" height="460" alt="SS_1" src="https://github.com/user-attachments/assets/85542408-ce0b-4c6b-a349-edea9280d002" />
+[Triage app]<img width="1258" height="505" alt="SS_2" src="https://github.com/user-attachments/assets/8c70ecfb-da0f-4412-bd8a-615195e67fd7" />
 
 ---
 
