@@ -5,7 +5,7 @@ An NLP system that reads real vehicle safety complaints filed with the US govern
 
 **Research question:** Is a fine-tuned DistilBERT worth its extra cost over a simple TF-IDF + logistic regression model?
 
-![Triage app]<img width="1501" height="460" alt="SS_1" src="https://github.com/user-attachments/assets/85542408-ce0b-4c6b-a349-edea9280d002" />
+[Triage app]<img width="1501" height="460" alt="SS_1" src="https://github.com/user-attachments/assets/85542408-ce0b-4c6b-a349-edea9280d002" />
 
 ---
 
