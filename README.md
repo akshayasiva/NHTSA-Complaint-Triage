@@ -6,7 +6,7 @@ an emerging-issues report.
 
 **Question:** Is a fine-tuned DistilBERT worth its extra cost over TF-IDF + logistic regression?
 
-![App screenshot](images/triage_tab.png)
+<img width="1501" height="460" alt="SS_1" src="https://github.com/user-attachments/assets/cf0bb51d-a290-4a1e-85c8-6e2fb8243219" />
 
 ## Results
 | Model | Macro-F1 | Danger PR-AUC | Danger recall | ms / prediction |
@@ -24,7 +24,6 @@ NHTSA ODI complaints, 2020–2026. Train 2021–23, test 2024, drift check 2025�
 Privacy fields (names, VINs, dealer info) dropped.
 
 ## Key findings
-- ___
 - Example: TF-IDF missed "rear-ended" as a crash (score 0.44); DistilBERT scored ___
 
 ## Run it
